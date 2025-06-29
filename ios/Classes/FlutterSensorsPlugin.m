@@ -1,5 +1,5 @@
 #import "FlutterSensorsPlugin.h"
-#import <flutter_sensors/flutter_sensors-Swift.h>
+#import <flutter_sensors_plus/flutter_sensors_plus-Swift.h>
 
 @implementation FlutterSensorsPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
